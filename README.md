@@ -36,7 +36,5 @@ Performance may vary depending on the device, GPU, RAM, Minecraft version, rende
 - Cave lighting
 - Lava illumination
 - Mobile-focused optimization
-
-## License
-
-See `copyright.txt` for the project's copyright and usage terms.
+----------------------------------
+## Screenshot
