@@ -1,5 +1,6 @@
 # Light-Shader
-Light Shader — A lightweight shader for Minecraft Bedrock using MB Loader.
+Light Shader — Minecraft Bedrock shader for MB Loader
+A lightweight Minecraft Bedrock shader designed for MB Loader / MaterialBinLoader. Optimized for mobile devices.
 
 ----------------------------------
 
