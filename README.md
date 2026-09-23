@@ -38,6 +38,9 @@ Performance may vary depending on the device, GPU, RAM, Minecraft version, rende
 - Lava illumination
 - Mobile-focused optimization
 ----------------------------------
+## Community 
+https://discord.gg/wBj6BRceH
+----------------------------------
 ## Screenshot
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-34-50-53" src="https://github.com/user-attachments/assets/7c489341-2553-4877-bc37-138bc22d7ff3" />
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-35-18-37" src="https://github.com/user-attachments/assets/49e363fa-5109-45bb-8657-7c634fb3d4f1" />
