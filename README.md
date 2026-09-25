@@ -39,6 +39,7 @@ Performance may vary depending on the device, GPU, RAM, Minecraft version, rende
 - Mobile-focused optimization
 ----------------------------------
 ## Screenshot
+<img width="1600" height="720" alt="Screenshot_2026-09-25-10-39-57-10" src="https://github.com/user-attachments/assets/1963f041-7d08-4239-9bfc-740348660973" />
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-34-50-53" src="https://github.com/user-attachments/assets/7c489341-2553-4877-bc37-138bc22d7ff3" />
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-35-18-37" src="https://github.com/user-attachments/assets/49e363fa-5109-45bb-8657-7c634fb3d4f1" />
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-35-38-63" src="https://github.com/user-attachments/assets/3c77d627-536f-4db6-ac1b-13a93acca838" />
