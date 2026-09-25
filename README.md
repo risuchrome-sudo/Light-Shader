@@ -36,8 +36,7 @@ Performance may vary depending on the device, GPU, RAM, Minecraft version, rende
 - Night sky effects
 - Cave lighting
 - Lava illumination
-- Mobile-focused optimization<img width="1600" height="720" alt="Screenshot_2026-09-25-10-39-57-10" src="https://github.com/user-attachments/assets/2ff30036-cb3e-4807-afc5-7716664a72f1" />
-
+- Mobile-focused optimization
 ----------------------------------
 ## Screenshot
 <img width="1600" height="720" alt="Screenshot_2026-09-22-09-34-50-53" src="https://github.com/user-attachments/assets/7c489341-2553-4877-bc37-138bc22d7ff3" />
